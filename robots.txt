@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://dewohngaes.littlebetterbooks.com/sitemap.xml
